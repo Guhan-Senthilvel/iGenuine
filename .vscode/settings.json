@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "Attendance",
+        "31.07.25",
+        "30.07.25",
+        "29.07.25",
+        "26.07.25",
+        "25.07.25",
+        "24.07.25",
+        "23.07.25",
+        "06.08.25",
+        "05.08.25/Device",
+        "01.08.25",
+        "07.08.25"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
